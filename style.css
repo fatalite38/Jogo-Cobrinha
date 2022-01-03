@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 80vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    background-color: #EFEAC5;
+
+}
+
+.txt{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 80px;
+    color: rgb(127, 52, 189);
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+.canvas {
+    padding-top: 10px;
+}
+
+.rodape {
+    padding-bottom: 0px;
+}
