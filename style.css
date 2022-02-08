@@ -33,3 +33,10 @@ body {
 .rodape {
     padding-bottom: 0px;
 }
+
+@media (max-width: 532px) {
+    .canvas {
+        width: 300px;
+        height: 300px;
+    }
+}
